@@ -80,13 +80,13 @@ h1 {
   text-align: center;
 }
 #left-img {
-  background-image: url(../img/left-img.jpg);
+  background-image: url(../img/hipsterpuppy1.jpg);
 }
 #middle-img {
-  background-image: url(../img/middle-img.jpg);
+  background-image: url(../img/hipsterpuppy2.jpg);
 }
 #right-img {
-  background-image: url(../img/right-img.jpg);
+  background-image: url(../img/hipsterpuppy3.jpg);
 }
 .callout-msg,
 .contact-msg,
